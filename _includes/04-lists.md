@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+😄
+
+1. one
+2. two
+3. three
+
+- one
+- two
+- three
